@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Environment and secrets
+.env
+*.local
+
+# Build outputs
+dist/
+build/
+.playwright/
+test-results/
+playwright-report/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+NOTES.md
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+zconfid.md
