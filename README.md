@@ -1,7 +1,5 @@
 # Recruiterflow Take-Home (Full Stack Submission)
 
-Hey! I'm Gagan (final-year B.Tech student at UVCE). This repo has my work for the Recruiterflow internship take-home assignment, organized as three standalone sub-projects:
-
 1. **`backend/`** (Build-a-Recruiter-Bot + SQL Detective)
    - Python, FastAPI, and SQLite using hand-written raw SQL only (no ORM).
    - Matching algorithm that scores candidate-to-job fit with plain-English reasoning.
